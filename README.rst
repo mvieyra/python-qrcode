@@ -1,6 +1,6 @@
-=============================
-Pure python QR Code generator
-=============================
+==================================
+Pure python QR Code generator 2023
+==================================
 
 Generate QR codes.
 
